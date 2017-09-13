@@ -9,3 +9,14 @@ D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\zh-Hans\Ent
 D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.dll
 D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\MVCEF.Model.dll.config
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\MVCEF.Model.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\MVCEF.Model.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\EntityFramework.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\EntityFramework.xml
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.pdb
