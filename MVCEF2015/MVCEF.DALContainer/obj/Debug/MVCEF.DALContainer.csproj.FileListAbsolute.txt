@@ -1,0 +1,16 @@
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.csprojResolveAssemblyReference.cache
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.DALContainer.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.DALContainer.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\Autofac.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.DAL.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.IDAL.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\EntityFramework.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.Model.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.DAL.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.IDAL.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\Autofac.xml
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\EntityFramework.xml
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.Model.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.pdb

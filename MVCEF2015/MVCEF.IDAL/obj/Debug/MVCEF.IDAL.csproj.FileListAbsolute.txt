@@ -1,0 +1,10 @@
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\MVCEF.IDAL.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\MVCEF.IDAL.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\MVCEF.Model.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\EntityFramework.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\MVCEF.Model.pdb
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\EntityFramework.xml
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.csprojResolveAssemblyReference.cache
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.dll
+D:\SourceCode\BaoZD\WorkTest\MyMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.pdb
