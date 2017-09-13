@@ -18,5 +18,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\zh-Hans
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.pdb
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\bin\Debug\MVCEF.Model.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IDAL\obj\Debug\MVCEF.IDAL.csproj.CoreCompileInputs.cache

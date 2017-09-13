@@ -30,6 +30,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.pdb
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.DAL.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\bin\Debug\MVCEF.Model.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DALContainer\obj\Debug\MVCEF.DALContainer.csproj.CoreCompileInputs.cache

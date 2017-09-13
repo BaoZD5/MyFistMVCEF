@@ -42,6 +42,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\bin\Debug
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\obj\Debug\MVCEF.BLLContainer.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\obj\Debug\MVCEF.BLLContainer.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\obj\Debug\MVCEF.BLLContainer.pdb
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\bin\Debug\MVCEF.Model.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\bin\Debug\MVCEF.DAL.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLLContainer\obj\Debug\MVCEF.BLLContainer.csproj.CoreCompileInputs.cache

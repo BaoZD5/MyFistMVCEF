@@ -136,6 +136,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\zh-Hans\System
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\obj\Debug\MVCEF2015.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\obj\Debug\MVCEF2015.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\obj\Debug\MVCEF2015.pdb
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\MVCEF.Model.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\MVCEF.DAL.dll.config
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\obj\Debug\MVCEF2015.csproj.CoreCompileInputs.cache
