@@ -18,3 +18,5 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\bin\Debug\zh-Hans
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\obj\Debug\MVCEF.IBLL.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\obj\Debug\MVCEF.IBLL.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\obj\Debug\MVCEF.IBLL.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\bin\Debug\MVCEF.Model.dll.config
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.IBLL\obj\Debug\MVCEF.IBLL.csproj.CoreCompileInputs.cache
