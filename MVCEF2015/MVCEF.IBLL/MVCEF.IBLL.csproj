@@ -41,10 +41,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IBaseService.cs" />
+    <Compile Include="ISysUserBLL.cs" />
     <Compile Include="IUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MVCEF.ExEntity\MVCEF.ExEntity.csproj">
+      <Project>{8d5d5cfa-cde1-4709-85ed-795019e3a223}</Project>
+      <Name>MVCEF.ExEntity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MVCEF.Model\MVCEF.Model.csproj">
       <Project>{CD3C8E4D-843A-4987-B3BF-4590DC359F29}</Project>
       <Name>MVCEF.Model</Name>

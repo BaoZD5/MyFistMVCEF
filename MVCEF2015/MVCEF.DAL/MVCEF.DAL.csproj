@@ -54,6 +54,8 @@
     <Compile Include="BaseDAL.cs" />
     <Compile Include="DbContextFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SysBaseDAL.cs" />
+    <Compile Include="SysUserDAL.cs" />
     <Compile Include="UserDAL.cs" />
   </ItemGroup>
   <ItemGroup>

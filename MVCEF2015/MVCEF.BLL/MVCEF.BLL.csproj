@@ -43,12 +43,17 @@
     <Compile Include="BaseService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SysBLL.cs" />
+    <Compile Include="SysUserBLL.cs" />
     <Compile Include="UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MVCEF.DALContainer\MVCEF.DALContainer.csproj">
       <Project>{b9615ee4-42d3-4f6f-8895-a4f4e814168b}</Project>
       <Name>MVCEF.DALContainer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MVCEF.ExEntity\MVCEF.ExEntity.csproj">
+      <Project>{8d5d5cfa-cde1-4709-85ed-795019e3a223}</Project>
+      <Name>MVCEF.ExEntity</Name>
     </ProjectReference>
     <ProjectReference Include="..\MVCEF.IBLL\MVCEF.IBLL.csproj">
       <Project>{6FDE60C2-5398-45F4-884F-7BF7C1AAFF3D}</Project>
