@@ -1,9 +1,0 @@
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\bin\Debug\netcoreapp2.0\MVCEF.Entity.deps.json
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\bin\Debug\netcoreapp2.0\MVCEF.Entity.dll
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\bin\Debug\netcoreapp2.0\MVCEF.Entity.pdb
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.csprojResolveAssemblyReference.cache
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.csproj.CoreCompileInputs.cache
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.AssemblyInfoInputs.cache
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.AssemblyInfo.cs
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.dll
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Entity\obj\Debug\netcoreapp2.0\MVCEF.Entity.pdb

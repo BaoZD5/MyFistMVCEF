@@ -24,6 +24,7 @@ namespace MVCEF2015.Controllers
             string email = fc["inputEmail3"];
             string password = fc["inputPassword3"];
 
+
             ViewBag.LoginState = email + "登录后。。。";
             return View();
         }

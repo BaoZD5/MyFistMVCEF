@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountContext.cs" />
+    <Compile Include="AccountInitializer.cs" />
     <Compile Include="BaseDAL.cs" />
     <Compile Include="DbContextFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -59,6 +61,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MVCEF.ExEntity\MVCEF.ExEntity.csproj">
+      <Project>{8d5d5cfa-cde1-4709-85ed-795019e3a223}</Project>
+      <Name>MVCEF.ExEntity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MVCEF.IDAL\MVCEF.IDAL.csproj">
       <Project>{7F327614-692E-4985-B5EB-B96F350A7BC3}</Project>
       <Name>MVCEF.IDAL</Name>

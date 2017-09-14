@@ -194,6 +194,10 @@
       <Project>{5882af9d-661d-47db-a2d1-48d0d05caf3f}</Project>
       <Name>MVCEF.BLLContainer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MVCEF.ExEntity\MVCEF.ExEntity.csproj">
+      <Project>{8d5d5cfa-cde1-4709-85ed-795019e3a223}</Project>
+      <Name>MVCEF.ExEntity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MVCEF.IBLL\MVCEF.IBLL.csproj">
       <Project>{6FDE60C2-5398-45F4-884F-7BF7C1AAFF3D}</Project>
       <Name>MVCEF.IBLL</Name>

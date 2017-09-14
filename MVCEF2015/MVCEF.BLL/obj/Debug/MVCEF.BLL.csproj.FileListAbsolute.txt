@@ -41,3 +41,6 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\obj\Debug\MVCEF.BL
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\bin\Debug\MVCEF.Model.dll.config
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\bin\Debug\MVCEF.DAL.dll.config
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\obj\Debug\MVCEF.BLL.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\bin\Debug\MVCEF.ExEntity.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\bin\Debug\MVCEF.ExEntity.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.BLL\bin\Debug\MVCEF.ExEntity.dll.config

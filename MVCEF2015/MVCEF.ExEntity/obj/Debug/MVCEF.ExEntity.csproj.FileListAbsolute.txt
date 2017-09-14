@@ -1,0 +1,13 @@
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\MVCEF.ExEntity.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\MVCEF.ExEntity.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\obj\Debug\MVCEF.ExEntity.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\obj\Debug\MVCEF.ExEntity.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\obj\Debug\MVCEF.ExEntity.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\MVCEF.ExEntity.dll.config
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\EntityFramework.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\EntityFramework.xml
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\obj\Debug\MVCEF.ExEntity.csprojResolveAssemblyReference.cache
