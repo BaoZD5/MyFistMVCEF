@@ -14,7 +14,7 @@ namespace MVCEF2015.Controllers
         // GET: Account
         public ActionResult Index()
         {
-            return View();
+            return View(sysUserBLL.GetAllUsers());
         }
         public ActionResult Login()
         {

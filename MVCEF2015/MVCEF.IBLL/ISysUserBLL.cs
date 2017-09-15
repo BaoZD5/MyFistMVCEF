@@ -9,6 +9,6 @@ namespace MVCEF.IBLL
 {
     public partial interface ISysUserBLL : IBaseService<SysUser>
     {
-
+        IQueryable<SysUser> GetAllUsers();
     }
 }

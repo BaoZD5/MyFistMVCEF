@@ -16,7 +16,7 @@ namespace MVCEF.BLL
         {
             Dal = sysUserDAL;
         }
-        public IQueryable<SysUser> GetAllUser()
+        public IQueryable<SysUser> GetAllUsers()
         {
             return sysUserDAL.GetList();
         }

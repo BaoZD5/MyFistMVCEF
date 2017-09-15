@@ -1,7 +1,23 @@
-﻿
+﻿@model IEnumerable<MVCEF.ExEntity.SysUser>
+
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
-
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+        </tr>
+    </table>
+</body>
+</html>
