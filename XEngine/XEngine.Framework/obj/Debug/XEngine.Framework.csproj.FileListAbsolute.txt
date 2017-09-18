@@ -27,3 +27,4 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Framework\bin\Debug\En
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Framework\bin\Debug\EntityFramework.SqlServer.xml
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Framework\obj\Debug\XEngine.Framework.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Framework\obj\Debug\XEngine.Framework.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Framework\obj\Debug\XEngine.Framework.csproj.CoreCompileInputs.cache

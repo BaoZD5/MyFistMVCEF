@@ -41,7 +41,7 @@ namespace XEngine.Web.Utility.MenuHelper.Base
                     BuildTagContainer(mi, _TopTagContainer);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 
                 throw;

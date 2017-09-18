@@ -120,6 +120,6 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\bin\zh-Hans\System
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\obj\Debug\XEngine.Web.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\obj\Debug\XEngine.Web.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\obj\Debug\XEngine.Web.pdb
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\XEngine\XEngine.Web\obj\Debug\XEngine.Web.csproj.CoreCompileInputs.cache
