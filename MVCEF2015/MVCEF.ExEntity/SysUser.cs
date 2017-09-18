@@ -7,6 +7,9 @@ namespace MVCEF.ExEntity
     public class SysUser
     {
         public int ID { get; set; }
+        /// <summary>
+        /// 用户名称
+        /// </summary>
         public string UserName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }

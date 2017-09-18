@@ -9,15 +9,34 @@
     <meta charset="utf-8" />
 </head>
 <body>
-    <table>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.UserName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-        </tr>
-    </table>
+    <div>
+        <p>@Html.ActionLink("新增", "Create")</p>
+        <table>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.ActionLink("明细", "Details", new { id = item.ID })
+                        @Html.ActionLink("编辑", "Edit", new { id = item.ID })
+                        @Html.ActionLink("删除", "Delete", new { id = item.ID })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
 </body>
 </html>

@@ -1,0 +1,35 @@
+﻿@model MVCEF.ExEntity.SysUser
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <div>
+            @Html.LabelFor(model => model.UserName)
+            @Html.EditorFor(model => model.UserName)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Email)
+            @Html.EditorFor(model => model.Email)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Password)
+            @Html.PasswordFor(model => model.Password)
+        </div>
+        <div>
+            <input type="submit" value="Create" />
+        </div>
+    }
+    <div>
+        @Html.ActionLink("返回", "Index")
+    </div>
+</body>
+</html>
+

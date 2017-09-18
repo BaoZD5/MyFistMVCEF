@@ -46,6 +46,7 @@ namespace MVCEF.BLLContainer
             var builder = new ContainerBuilder();
             //格式：builder.RegisterType<xxxx>().As<Ixxxx>().InstancePerLifetimeScope();
             builder.RegisterType<UserService>().As<IUserService>().InstancePerLifetimeScope();
+            builder.RegisterType<SysUserBLL>().As<ISysUserBLL>().InstancePerLifetimeScope();
             container = builder.Build();
         }
     }

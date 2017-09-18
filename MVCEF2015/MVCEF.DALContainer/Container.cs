@@ -46,6 +46,7 @@ namespace MVCEF.DALContainer
             var builder = new ContainerBuilder();
             //格式：builder.RegisterType<xxxx>().As<Ixxxx>().InstancePerLifetimeScope();
             builder.RegisterType<UserDAL>().As<IUserDAL>().InstancePerLifetimeScope();
+            builder.RegisterType<SysUserDAL>().As<ISysUserDAL>().InstancePerLifetimeScope();
             container = builder.Build();
         }
     }
