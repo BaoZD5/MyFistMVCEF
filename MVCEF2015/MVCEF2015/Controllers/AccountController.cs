@@ -31,7 +31,6 @@ namespace MVCEF2015.Controllers
 
             var users = sysUserBLL.GetAllUsers();
 
-
             if (!string.IsNullOrEmpty(searchString))
             {
                 users = users.Where(x => x.UserName.Contains(searchString));
