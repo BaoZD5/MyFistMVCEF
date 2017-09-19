@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace MVCEF.ExEntity
@@ -14,6 +15,8 @@ namespace MVCEF.ExEntity
         public string Email { get; set; }
         public string Password { get; set; }
         public string Sex { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime CreateDate { get; set; }
         public virtual ICollection<SysUserRole> SysUserRole { get; set; }
     }
 }

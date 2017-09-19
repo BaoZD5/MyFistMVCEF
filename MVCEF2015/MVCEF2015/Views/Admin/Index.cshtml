@@ -3,13 +3,3 @@
     ViewBag.Title = "Index";
 }
 
-<h1>通过@@html.Partial来使用</h1>
-@{ 
-    Html.Partial("~/Views/Shared/_PartialPageWidget.cshtml");
-}
-@Html.Partial("~/Views/Shared/_PartialPageWidget.cshtml")
-<h1>通过 @@Html.RenderPartial来使用</h1>
-@{ 
-    Html.RenderPartial("~/Views/Shared/_PartialPageWidget.cshtml");
-}
-

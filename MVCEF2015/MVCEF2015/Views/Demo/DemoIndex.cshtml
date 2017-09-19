@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "DemoIndex";
+}
+
+@*html.Partial*@
+
+<h1>通过@@html.Partial来使用</h1>
+@Html.Partial("~/Views/Shared/_PartialPageWidget.cshtml")
+<h1>通过 @@Html.RenderPartial来使用</h1>
+@{
+    Html.RenderPartial("~/Views/Shared/_PartialPageWidget.cshtml");
+}
+
+@*Html.Action*@
+<h1>通过 @@Html.Action来使用 </h1>
+@Html.Action("ShowWidget")
+<h1>通过 @@Html.RenderAction来使用 </h1>
+@{
+    Html.RenderAction("ShowWidget");
+}
+
+

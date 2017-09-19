@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
 
 namespace MVCEF2015.Controllers
 {
@@ -13,9 +14,42 @@ namespace MVCEF2015.Controllers
         private ISysUserBLL sysUserBLL = MVCEF.BLLContainer.Container.Resolve<ISysUserBLL>();
 
         // GET: Account
-        public ActionResult Index()
+        public ActionResult Index(string sortOrder, string searchString, string currentFilter, int? pageIndex)
         {
-            return View(sysUserBLL.GetAllUsers());
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.NameSortParm = string.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                pageIndex = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            ViewBag.CurrentFilter = searchString;
+
+            var users = sysUserBLL.GetAllUsers();
+
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                users = users.Where(x => x.UserName.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    users = users.OrderByDescending(x => x.UserName);
+                    break;
+                default:
+                    users = users.OrderBy(x => x.UserName);
+                    break;
+            }
+
+            int pageSize = 3;
+            int pageNumber = (pageIndex ?? 1);
+
+            return View(users.ToPagedList(pageNumber, pageSize));
         }
         public ActionResult Login()
         {
@@ -52,6 +86,7 @@ namespace MVCEF2015.Controllers
         [HttpPost]
         public ActionResult Create(SysUser sysUser)
         {
+            sysUser.CreateDate = DateTime.Now;
             sysUserBLL.Add(sysUser);
             return RedirectToAction("Index");
         }
@@ -75,13 +110,13 @@ namespace MVCEF2015.Controllers
             SysUser sysUser = sysUserBLL.GetAllUsers().FirstOrDefault(x => x.ID == id);
             return View(sysUser);
         }
-        [HttpPost,ActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
             SysUser sysUser = sysUserBLL.GetAllUsers().FirstOrDefault(x => x.ID == id);
             sysUserBLL.Delete(sysUser);
             return View(RedirectToAction("Index"));
-        } 
+        }
         #endregion
     }
 }

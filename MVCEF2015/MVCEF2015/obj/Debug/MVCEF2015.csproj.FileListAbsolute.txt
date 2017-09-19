@@ -142,3 +142,7 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\obj\Debug\MVCEF201
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\MVCEF.ExEntity.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\MVCEF.ExEntity.pdb
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\MVCEF.ExEntity.dll.config
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\PagedList.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\PagedList.Mvc.dll
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\PagedList.xml
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF2015\bin\PagedList.Mvc.xml

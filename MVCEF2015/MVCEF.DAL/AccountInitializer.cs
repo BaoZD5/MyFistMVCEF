@@ -13,8 +13,8 @@ namespace MVCEF.DAL
         protected override void Seed(AccountContext context)
         {
             var sysUsers = new List<SysUser> {
-                new SysUser{ UserName = "Java",Email="Java@qq.com", Password = "123"},
-                new SysUser{ UserName = "Net",Email="Net@qq.com", Password = "123"}
+                new SysUser{ UserName = "Java",Email="Java@qq.com",CreateDate=DateTime.Now, Password = "123"},
+                new SysUser{ UserName = "Net",Email="Net@qq.com",CreateDate=DateTime.Now, Password = "123"}
             };
             sysUsers.ForEach(x => context.SysUsers.Add(x));
             context.SaveChanges();

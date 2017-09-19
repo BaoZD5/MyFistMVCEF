@@ -25,6 +25,7 @@ namespace MVCEF2015
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/dashboard.css",
                       "~/Content/site.css"));
         }
     }
