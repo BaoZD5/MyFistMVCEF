@@ -11,7 +11,7 @@ namespace MVCEF.ExEntity
         /// <summary>
         /// 用户名称
         /// </summary>
-        [StringLength(50,ErrorMessageResourceName ="名字不能超过50个字")]
+        [StringLength(50, MinimumLength = 1, ErrorMessage = "名字不能超过50个字")]
         public string UserName { get; set; }
         [StringLength(50)]
         public string Email { get; set; }
@@ -24,6 +24,6 @@ namespace MVCEF.ExEntity
         public DateTime CreateDate { get; set; }
         public virtual ICollection<SysUserRole> SysUserRole { get; set; }
 
-       public int? SysDepartmentID { get; set; }
+        public int? SysDepartmentID { get; set; }
     }
 }

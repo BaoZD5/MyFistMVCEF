@@ -85,9 +85,13 @@ namespace MVCEF2015.Controllers
         [HttpPost]
         public ActionResult Create(SysUser sysUser)
         {
-            sysUser.CreateDate = DateTime.Now;
-            sysUserBLL.Add(sysUser);
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                sysUser.CreateDate = DateTime.Now;
+                sysUserBLL.Add(sysUser);
+                return RedirectToAction("Index");
+            }
+            return View();
         }
         #endregion
         #region 修改

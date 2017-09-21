@@ -14,14 +14,17 @@
         <div>
             @Html.LabelFor(model => model.UserName)
             @Html.EditorFor(model => model.UserName)
+            @Html.ValidationMessageFor(x => x.UserName)
         </div>
         <div>
             @Html.LabelFor(model => model.Email)
             @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(x=>x.Email)
         </div>
         <div>
             @Html.LabelFor(model => model.Password)
             @Html.PasswordFor(model => model.Password)
+            @Html.ValidationMessageFor(x=>x.Password)
         </div>
         <div>
             <input type="submit" value="Create" />
