@@ -21,4 +21,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\bin\Debug\zh-Han
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.pdb
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.csproj.CoreCompileInputs.cache
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.Model\obj\Debug\MVCEF.Model.csprojResolveAssemblyReference.cache

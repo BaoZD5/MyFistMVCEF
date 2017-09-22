@@ -10,4 +10,3 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\Ent
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\EntityFramework.SqlServer.xml
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
-D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.ExEntity\obj\Debug\MVCEF.ExEntity.csprojResolveAssemblyReference.cache

@@ -39,3 +39,5 @@ D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DA
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DAL.csproj.GenerateResource.Cache
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DAL.Migrations.InitialCreate1.resources
 D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DAL.Migrations.MaxLengthOnNames.resources
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DAL.Migrations.ColumnName.resources
+D:\SourceCode\BaoZD\Documents\MyFistMVCEF\MVCEF2015\MVCEF.DAL\obj\Debug\MVCEF.DAL.Migrations.DepartmentAdd.resources

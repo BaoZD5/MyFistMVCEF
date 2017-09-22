@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using PagedList;
+using System.Data.Entity;
 
 namespace MVCEF2015.Controllers
 {
@@ -29,7 +30,7 @@ namespace MVCEF2015.Controllers
             }
             ViewBag.CurrentFilter = searchString;
 
-            var users = sysUserBLL.GetAllUsers();
+            var users = sysUserBLL.GetAllUsers().Include(x => x.SysDeparment);
 
             if (!string.IsNullOrEmpty(searchString))
             {

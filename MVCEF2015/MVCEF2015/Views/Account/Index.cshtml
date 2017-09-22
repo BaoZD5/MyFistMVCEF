@@ -31,6 +31,9 @@
                 <th>
                     CreateDate
                 </th>
+                <th>
+                    Department
+                </th>
             </tr>
         </thead>
         <tbody>
@@ -45,6 +48,9 @@
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.CreateDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => item.SysDeparment.DepartmentName)
                     </td>
                     <td>
                         @Html.ActionLink("明细", "Details", new { id = item.ID })

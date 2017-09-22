@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace MVCEF.ExEntity
@@ -12,6 +13,7 @@ namespace MVCEF.ExEntity
         /// 用户名称
         /// </summary>
         [StringLength(50, MinimumLength = 1, ErrorMessage = "名字不能超过50个字")]
+        [Column("Name"),Display(Name ="用户名")]
         public string UserName { get; set; }
         [StringLength(50)]
         public string Email { get; set; }
@@ -25,5 +27,7 @@ namespace MVCEF.ExEntity
         public virtual ICollection<SysUserRole> SysUserRole { get; set; }
 
         public int? SysDepartmentID { get; set; }
+
+       public virtual SysDepartment SysDeparment { get; set; }
     }
 }
