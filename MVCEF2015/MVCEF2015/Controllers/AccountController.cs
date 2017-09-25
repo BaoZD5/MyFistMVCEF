@@ -32,6 +32,8 @@ namespace MVCEF2015.Controllers
 
             var users = sysUserBLL.GetAllUsers().Include(x => x.SysDeparment);
 
+            //users = sysUserBLL.GetAllUsers().Include(x => x.SysDeparment).Include(x => x.SysUserRole).Where(x=>x.SysDeparment.DepartmentName.Contains("学习"));
+
             if (!string.IsNullOrEmpty(searchString))
             {
                 users = users.Where(x => x.UserName.Contains(searchString));
@@ -46,7 +48,7 @@ namespace MVCEF2015.Controllers
                     break;
             }
 
-            int pageSize = 3;
+            int pageSize = 5;
             int pageNumber = (pageIndex ?? 1);
 
             return View(users.ToPagedList(pageNumber, pageSize));
@@ -119,7 +121,7 @@ namespace MVCEF2015.Controllers
         {
             SysUser sysUser = sysUserBLL.GetAllUsers().FirstOrDefault(x => x.ID == id);
             sysUserBLL.Delete(sysUser);
-            return View(RedirectToAction("Index"));
+            return RedirectToAction("Index");
         }
         #endregion
     }
