@@ -60,7 +60,7 @@
       <Name>MVCEF.IBLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\MVCEF.IDAL\MVCEF.IDAL.csproj">
-      <Project>{7F327614-692E-4985-B5EB-B96F350A7BC3}</Project>
+      <Project>{7f327614-692e-4985-b5eb-b96f350a7bc3}</Project>
       <Name>MVCEF.IDAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\MVCEF.Model\MVCEF.Model.csproj">
